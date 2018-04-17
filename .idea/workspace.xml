@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcf34ef7-cc56-47df-a6dc-64ed6fcceeb1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4176">
+              <caret line="261" column="1" lean-forward="false" selection-start-line="251" selection-start-column="6" selection-end-line="265" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManageEmployee.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layouts/ManageEmployee.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-391">
+              <caret line="1100" column="28" lean-forward="false" selection-start-line="1100" selection-start-column="28" selection-end-line="1100" selection-end-column="28" />
+              <folding>
+                <element signature="e#172#177#0#PHP" expanded="false" />
+                <element signature="e#360#110873#0#PHP" expanded="false" />
+                <element signature="e#1161#4795#0#HTML" expanded="false" />
+                <element signature="e#1193#4741#0#HTML" expanded="false" />
+                <element signature="e#2252#4707#0#HTML" expanded="false" />
+                <element signature="e#4834#6120#0#HTML" expanded="false" />
+                <element signature="e#6365#13420#0#HTML" expanded="false" />
+                <element signature="e#13503#17364#0#HTML" expanded="false" />
+                <element signature="e#17418#23926#0#HTML" expanded="false" />
+                <element signature="e#23988#30244#0#HTML" expanded="false" />
+                <element signature="e#30310#33362#0#HTML" expanded="false" />
+                <element signature="e#33429#35929#0#HTML" expanded="false" />
+                <element signature="e#35980#38479#0#HTML" expanded="false" />
+                <element signature="e#38543#40345#0#HTML" expanded="false" />
+                <element signature="e#40429#40940#0#HTML" expanded="false" />
+                <element signature="e#41056#56416#0#PHP" expanded="false" />
+                <element signature="e#59554#68063#0#HTML" expanded="false" />
+                <element signature="e#68158#72672#0#HTML" expanded="false" />
+                <element signature="e#72734#80245#0#HTML" expanded="false" />
+                <element signature="e#100379#110793#0#PHP" expanded="false" />
+                <element signature="e#100422#110762#0#PHP" expanded="false" />
+                <element signature="e#110834#110873#0#PHP" expanded="false" />
+                <element signature="e#110951#111006#0#PHP" expanded="false" />
+                <marker date="1523353039224" expanded="true" signature="418:1052" ph="SELECT em_co... em_codes" />
+                <marker date="1523353039224" expanded="true" signature="3114:3129" ph="..." />
+                <marker date="1523353039224" expanded="true" signature="4197:4567" ph="..." />
+                <marker date="1523353039224" expanded="true" signature="4331:4345" ph="..." />
+                <marker date="1523353039224" expanded="true" signature="4515:4525" ph="..." />
+                <marker date="1523353039224" expanded="true" signature="14943:14979" ph="SELECT job_i... jobs_tbl" />
+                <marker date="1523353039224" expanded="true" signature="15901:15947" ph="SELECT branc... branches_tbl" />
+                <marker date="1523353039224" expanded="true" signature="16685:16742" ph="SELECT depar... departments_tbl" />
+                <marker date="1523353039224" expanded="true" signature="56718:59216" ph="SELECT em_co... em_codes" />
+                <marker date="1523353039224" expanded="true" signature="69808:69844" ph="SELECT job_i... jobs_tbl" />
+                <marker date="1523353039224" expanded="true" signature="70988:71034" ph="SELECT branc... branches_tbl" />
+                <marker date="1523353039224" expanded="true" signature="71942:71999" ph="SELECT depar... departments_tbl" />
+                <marker date="1523353039224" expanded="true" signature="103804:108214" ph="UPDATE em_codes... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customjs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myinput</find>
+      <find />
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/includes/templates/footer.php" />
+        <option value="$PROJECT_DIR$/layouts/dashboard.php" />
+        <option value="$PROJECT_DIR$/includes/templates/nav-bar.php" />
+        <option value="$PROJECT_DIR$/layouts/employeedetails.php" />
+        <option value="$PROJECT_DIR$/includes/templates/header.php" />
+        <option value="$PROJECT_DIR$/layouts/index.php" />
+        <option value="$PROJECT_DIR$/layouts/employees.php" />
+        <option value="$PROJECT_DIR$/layouts/page.php" />
+        <option value="$PROJECT_DIR$/layouts/css/custom.css" />
+        <option value="$PROJECT_DIR$/layouts/Manage Employee.php" />
+        <option value="$PROJECT_DIR$/includes/templates/side-bar.php" />
+        <option value="$PROJECT_DIR$/layouts/js/customjs.js" />
+        <option value="$PROJECT_DIR$/layouts/ManageEmployee.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="335" />
+    <option name="y" value="375" />
+    <option name="width" value="1037" />
+    <option name="height" value="474" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\xampp\htdocs\HRS3\layouts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\xampp\htdocs\HRS3\layouts\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="employeedetails.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/layouts/employeedetails.php" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.employeedetails.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcf34ef7-cc56-47df-a6dc-64ed6fcceeb1" name="Default" comment="" />
+      <created>1522068393383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522068393383</updated>
+      <workItem from="1522068397742" duration="4892000" />
+      <workItem from="1522140774449" duration="8370000" />
+      <workItem from="1522155228099" duration="7892000" />
+      <workItem from="1522241462432" duration="9361000" />
+      <workItem from="1522309895063" duration="7669000" />
+      <workItem from="1522330133905" duration="7329000" />
+      <workItem from="1522753655299" duration="10807000" />
+      <workItem from="1522765696363" duration="5560000" />
+      <workItem from="1522834567453" duration="603000" />
+      <workItem from="1522844653001" duration="10744000" />
+      <workItem from="1523010327988" duration="6208000" />
+      <workItem from="1523280031739" duration="3561000" />
+      <workItem from="1523283894168" duration="3062000" />
+      <workItem from="1523346440280" duration="5541000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91599000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1688" height="1014" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36474165" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12576313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4176">
+          <caret line="261" column="1" lean-forward="false" selection-start-line="251" selection-start-column="6" selection-end-line="265" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/ManageEmployee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29088">
+          <caret line="1818" column="70" lean-forward="true" selection-start-line="1818" selection-start-column="70" selection-end-line="1818" selection-end-column="70" />
+          <folding>
+            <element signature="e#172#177#0#PHP" expanded="false" />
+            <element signature="e#360#110873#0#PHP" expanded="false" />
+            <element signature="e#1161#4795#0#HTML" expanded="false" />
+            <element signature="e#1193#4741#0#HTML" expanded="false" />
+            <element signature="e#2252#4707#0#HTML" expanded="false" />
+            <element signature="e#4834#6120#0#HTML" expanded="false" />
+            <element signature="e#6365#13420#0#HTML" expanded="false" />
+            <element signature="e#13503#17364#0#HTML" expanded="false" />
+            <element signature="e#17418#23926#0#HTML" expanded="false" />
+            <element signature="e#23988#30244#0#HTML" expanded="false" />
+            <element signature="e#30310#33362#0#HTML" expanded="false" />
+            <element signature="e#33429#35929#0#HTML" expanded="false" />
+            <element signature="e#35980#38479#0#HTML" expanded="false" />
+            <element signature="e#38543#40345#0#HTML" expanded="false" />
+            <element signature="e#40429#40940#0#HTML" expanded="false" />
+            <element signature="e#41056#56416#0#PHP" expanded="false" />
+            <element signature="e#59554#68063#0#HTML" expanded="false" />
+            <element signature="e#68158#72672#0#HTML" expanded="false" />
+            <element signature="e#72734#80245#0#HTML" expanded="false" />
+            <element signature="e#100379#110793#0#PHP" expanded="false" />
+            <element signature="e#100422#110762#0#PHP" expanded="false" />
+            <element signature="e#110834#110873#0#PHP" expanded="false" />
+            <element signature="e#110951#111006#0#PHP" expanded="false" />
+            <marker date="1523353039224" expanded="true" signature="418:1052" ph="SELECT em_co... em_codes" />
+            <marker date="1523353039224" expanded="true" signature="3114:3129" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4197:4567" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4331:4345" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4515:4525" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="14943:14979" ph="SELECT job_i... jobs_tbl" />
+            <marker date="1523353039224" expanded="true" signature="15901:15947" ph="SELECT branc... branches_tbl" />
+            <marker date="1523353039224" expanded="true" signature="16685:16742" ph="SELECT depar... departments_tbl" />
+            <marker date="1523353039224" expanded="true" signature="56718:59216" ph="SELECT em_co... em_codes" />
+            <marker date="1523353039224" expanded="true" signature="69808:69844" ph="SELECT job_i... jobs_tbl" />
+            <marker date="1523353039224" expanded="true" signature="70988:71034" ph="SELECT branc... branches_tbl" />
+            <marker date="1523353039224" expanded="true" signature="71942:71999" ph="SELECT depar... departments_tbl" />
+            <marker date="1523353039224" expanded="true" signature="103804:108214" ph="UPDATE em_codes... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3952">
+          <caret line="247" column="1" lean-forward="false" selection-start-line="247" selection-start-column="1" selection-end-line="247" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/ManageEmployee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27792">
+          <caret line="1737" column="82" lean-forward="true" selection-start-line="1737" selection-start-column="82" selection-end-line="1737" selection-end-column="82" />
+          <folding>
+            <element signature="e#172#177#0#PHP" expanded="false" />
+            <element signature="e#360#110873#0#PHP" expanded="false" />
+            <element signature="e#1161#4795#0#HTML" expanded="false" />
+            <element signature="e#1193#4741#0#HTML" expanded="false" />
+            <element signature="e#2252#4707#0#HTML" expanded="false" />
+            <element signature="e#4834#6120#0#HTML" expanded="false" />
+            <element signature="e#6365#13420#0#HTML" expanded="false" />
+            <element signature="e#13503#17364#0#HTML" expanded="false" />
+            <element signature="e#17418#23926#0#HTML" expanded="false" />
+            <element signature="e#23988#30244#0#HTML" expanded="false" />
+            <element signature="e#30310#33362#0#HTML" expanded="false" />
+            <element signature="e#33429#35929#0#HTML" expanded="false" />
+            <element signature="e#35980#38479#0#HTML" expanded="false" />
+            <element signature="e#38543#40345#0#HTML" expanded="false" />
+            <element signature="e#40429#40940#0#HTML" expanded="false" />
+            <element signature="e#41056#56416#0#PHP" expanded="false" />
+            <element signature="e#59554#68063#0#HTML" expanded="false" />
+            <element signature="e#68158#72672#0#HTML" expanded="false" />
+            <element signature="e#72734#80245#0#HTML" expanded="false" />
+            <element signature="e#100379#110793#0#PHP" expanded="false" />
+            <element signature="e#100422#110762#0#PHP" expanded="false" />
+            <element signature="e#110834#110873#0#PHP" expanded="false" />
+            <element signature="e#110951#111006#0#PHP" expanded="false" />
+            <marker date="1523353039224" expanded="true" signature="418:1052" ph="SELECT em_co... em_codes" />
+            <marker date="1523353039224" expanded="true" signature="3114:3129" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4197:4567" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4331:4345" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4515:4525" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="14943:14979" ph="SELECT job_i... jobs_tbl" />
+            <marker date="1523353039224" expanded="true" signature="15901:15947" ph="SELECT branc... branches_tbl" />
+            <marker date="1523353039224" expanded="true" signature="16685:16742" ph="SELECT depar... departments_tbl" />
+            <marker date="1523353039224" expanded="true" signature="56718:59216" ph="SELECT em_co... em_codes" />
+            <marker date="1523353039224" expanded="true" signature="69808:69844" ph="SELECT job_i... jobs_tbl" />
+            <marker date="1523353039224" expanded="true" signature="70988:71034" ph="SELECT branc... branches_tbl" />
+            <marker date="1523353039224" expanded="true" signature="71942:71999" ph="SELECT depar... departments_tbl" />
+            <marker date="1523353039224" expanded="true" signature="103804:108214" ph="UPDATE em_codes... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4144">
+          <caret line="259" column="22" lean-forward="false" selection-start-line="259" selection-start-column="22" selection-end-line="259" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/ManageEmployee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16832">
+          <caret line="1052" column="10" lean-forward="true" selection-start-line="1052" selection-start-column="10" selection-end-line="1052" selection-end-column="10" />
+          <folding>
+            <element signature="e#172#177#0#PHP" expanded="false" />
+            <element signature="e#360#110873#0#PHP" expanded="false" />
+            <element signature="e#1161#4795#0#HTML" expanded="false" />
+            <element signature="e#1193#4741#0#HTML" expanded="false" />
+            <element signature="e#2252#4707#0#HTML" expanded="false" />
+            <element signature="e#4834#6120#0#HTML" expanded="false" />
+            <element signature="e#6365#13420#0#HTML" expanded="false" />
+            <element signature="e#13503#17364#0#HTML" expanded="false" />
+            <element signature="e#17418#23926#0#HTML" expanded="false" />
+            <element signature="e#23988#30244#0#HTML" expanded="false" />
+            <element signature="e#30310#33362#0#HTML" expanded="false" />
+            <element signature="e#33429#35929#0#HTML" expanded="false" />
+            <element signature="e#35980#38479#0#HTML" expanded="false" />
+            <element signature="e#38543#40345#0#HTML" expanded="false" />
+            <element signature="e#40429#40940#0#HTML" expanded="false" />
+            <element signature="e#41056#56416#0#PHP" expanded="false" />
+            <element signature="e#59554#68063#0#HTML" expanded="false" />
+            <element signature="e#68158#72672#0#HTML" expanded="false" />
+            <element signature="e#72734#80245#0#HTML" expanded="false" />
+            <element signature="e#100379#110793#0#PHP" expanded="false" />
+            <element signature="e#100422#110762#0#PHP" expanded="false" />
+            <element signature="e#110834#110873#0#PHP" expanded="false" />
+            <element signature="e#110951#111006#0#PHP" expanded="false" />
+            <marker date="1523353039224" expanded="true" signature="418:1052" ph="SELECT em_co... em_codes" />
+            <marker date="1523353039224" expanded="true" signature="3114:3129" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4197:4567" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4331:4345" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4515:4525" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="14943:14979" ph="SELECT job_i... jobs_tbl" />
+            <marker date="1523353039224" expanded="true" signature="15901:15947" ph="SELECT branc... branches_tbl" />
+            <marker date="1523353039224" expanded="true" signature="16685:16742" ph="SELECT depar... departments_tbl" />
+            <marker date="1523353039224" expanded="true" signature="56718:59216" ph="SELECT em_co... em_codes" />
+            <marker date="1523353039224" expanded="true" signature="69808:69844" ph="SELECT job_i... jobs_tbl" />
+            <marker date="1523353039224" expanded="true" signature="70988:71034" ph="SELECT branc... branches_tbl" />
+            <marker date="1523353039224" expanded="true" signature="71942:71999" ph="SELECT depar... departments_tbl" />
+            <marker date="1523353039224" expanded="true" signature="103804:108214" ph="UPDATE em_codes... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4144">
+          <caret line="259" column="22" lean-forward="true" selection-start-line="259" selection-start-column="22" selection-end-line="259" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/ManageEmployee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25984">
+          <caret line="1624" column="20" lean-forward="true" selection-start-line="1624" selection-start-column="20" selection-end-line="1624" selection-end-column="20" />
+          <folding>
+            <element signature="e#172#177#0#PHP" expanded="false" />
+            <element signature="e#360#110873#0#PHP" expanded="false" />
+            <element signature="e#1161#4795#0#HTML" expanded="false" />
+            <element signature="e#1193#4741#0#HTML" expanded="false" />
+            <element signature="e#2252#4707#0#HTML" expanded="false" />
+            <element signature="e#4834#6120#0#HTML" expanded="false" />
+            <element signature="e#6365#13420#0#HTML" expanded="false" />
+            <element signature="e#13503#17364#0#HTML" expanded="false" />
+            <element signature="e#17418#23926#0#HTML" expanded="false" />
+            <element signature="e#23988#30244#0#HTML" expanded="false" />
+            <element signature="e#30310#33362#0#HTML" expanded="false" />
+            <element signature="e#33429#35929#0#HTML" expanded="false" />
+            <element signature="e#35980#38479#0#HTML" expanded="false" />
+            <element signature="e#38543#40345#0#HTML" expanded="false" />
+            <element signature="e#40429#40940#0#HTML" expanded="false" />
+            <element signature="e#41056#56416#0#PHP" expanded="false" />
+            <element signature="e#59554#68063#0#HTML" expanded="false" />
+            <element signature="e#68158#72672#0#HTML" expanded="false" />
+            <element signature="e#72734#80245#0#HTML" expanded="false" />
+            <element signature="e#100379#110793#0#PHP" expanded="false" />
+            <element signature="e#100422#110762#0#PHP" expanded="false" />
+            <element signature="e#110834#110873#0#PHP" expanded="false" />
+            <element signature="e#110951#111006#0#PHP" expanded="false" />
+            <marker date="1523353039224" expanded="true" signature="418:1052" ph="SELECT em_co... em_codes" />
+            <marker date="1523353039224" expanded="true" signature="3114:3129" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4197:4567" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4331:4345" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4515:4525" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="14943:14979" ph="SELECT job_i... jobs_tbl" />
+            <marker date="1523353039224" expanded="true" signature="15901:15947" ph="SELECT branc... branches_tbl" />
+            <marker date="1523353039224" expanded="true" signature="16685:16742" ph="SELECT depar... departments_tbl" />
+            <marker date="1523353039224" expanded="true" signature="56718:59216" ph="SELECT em_co... em_codes" />
+            <marker date="1523353039224" expanded="true" signature="69808:69844" ph="SELECT job_i... jobs_tbl" />
+            <marker date="1523353039224" expanded="true" signature="70988:71034" ph="SELECT branc... branches_tbl" />
+            <marker date="1523353039224" expanded="true" signature="71942:71999" ph="SELECT depar... departments_tbl" />
+            <marker date="1523353039224" expanded="true" signature="103804:108214" ph="UPDATE em_codes... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/employees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="52" column="129" lean-forward="true" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3888">
+          <caret line="243" column="1" lean-forward="true" selection-start-line="243" selection-start-column="1" selection-end-line="243" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/Manage Employee.php" />
+    <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/employees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/side-bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/employees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/employeedetails.php" />
+    <entry file="file://$PROJECT_DIR$/layouts/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="976">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/employees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/side-bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/employeedetails.php" />
+    <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/employees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="195" column="35" lean-forward="true" selection-start-line="193" selection-start-column="28" selection-end-line="197" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/side-bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/employeedetails.php" />
+    <entry file="file://$PROJECT_DIR$/layouts/employees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/functions/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/employeedetails.php" />
+    <entry file="file://$PROJECT_DIR$/includes/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/templates/nav-bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/Manage Employee.php" />
+    <entry file="file://$PROJECT_DIR$/includes/templates/side-bar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="958">
+          <caret line="61" column="10" lean-forward="false" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/employees.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="115" column="29" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/js/customjs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4176">
+          <caret line="261" column="1" lean-forward="false" selection-start-line="251" selection-start-column="6" selection-end-line="265" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/ManageEmployee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="1100" column="28" lean-forward="false" selection-start-line="1100" selection-start-column="28" selection-end-line="1100" selection-end-column="28" />
+          <folding>
+            <element signature="e#172#177#0#PHP" expanded="false" />
+            <element signature="e#360#110873#0#PHP" expanded="false" />
+            <element signature="e#1161#4795#0#HTML" expanded="false" />
+            <element signature="e#1193#4741#0#HTML" expanded="false" />
+            <element signature="e#2252#4707#0#HTML" expanded="false" />
+            <element signature="e#4834#6120#0#HTML" expanded="false" />
+            <element signature="e#6365#13420#0#HTML" expanded="false" />
+            <element signature="e#13503#17364#0#HTML" expanded="false" />
+            <element signature="e#17418#23926#0#HTML" expanded="false" />
+            <element signature="e#23988#30244#0#HTML" expanded="false" />
+            <element signature="e#30310#33362#0#HTML" expanded="false" />
+            <element signature="e#33429#35929#0#HTML" expanded="false" />
+            <element signature="e#35980#38479#0#HTML" expanded="false" />
+            <element signature="e#38543#40345#0#HTML" expanded="false" />
+            <element signature="e#40429#40940#0#HTML" expanded="false" />
+            <element signature="e#41056#56416#0#PHP" expanded="false" />
+            <element signature="e#59554#68063#0#HTML" expanded="false" />
+            <element signature="e#68158#72672#0#HTML" expanded="false" />
+            <element signature="e#72734#80245#0#HTML" expanded="false" />
+            <element signature="e#100379#110793#0#PHP" expanded="false" />
+            <element signature="e#100422#110762#0#PHP" expanded="false" />
+            <element signature="e#110834#110873#0#PHP" expanded="false" />
+            <element signature="e#110951#111006#0#PHP" expanded="false" />
+            <marker date="1523353039224" expanded="true" signature="418:1052" ph="SELECT em_co... em_codes" />
+            <marker date="1523353039224" expanded="true" signature="3114:3129" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4197:4567" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4331:4345" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="4515:4525" ph="..." />
+            <marker date="1523353039224" expanded="true" signature="14943:14979" ph="SELECT job_i... jobs_tbl" />
+            <marker date="1523353039224" expanded="true" signature="15901:15947" ph="SELECT branc... branches_tbl" />
+            <marker date="1523353039224" expanded="true" signature="16685:16742" ph="SELECT depar... departments_tbl" />
+            <marker date="1523353039224" expanded="true" signature="56718:59216" ph="SELECT em_co... em_codes" />
+            <marker date="1523353039224" expanded="true" signature="69808:69844" ph="SELECT job_i... jobs_tbl" />
+            <marker date="1523353039224" expanded="true" signature="70988:71034" ph="SELECT branc... branches_tbl" />
+            <marker date="1523353039224" expanded="true" signature="71942:71999" ph="SELECT depar... departments_tbl" />
+            <marker date="1523353039224" expanded="true" signature="103804:108214" ph="UPDATE em_codes... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
